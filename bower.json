@@ -1,0 +1,19 @@
+{
+  "name": "diff",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.3.0",
+    "purescript-console": "^3.0.0",
+    "purescript-arrays": "^4.0.0",
+    "purescript-lists": "^4.8.0",
+    "purescript-strings": "^3.5.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
